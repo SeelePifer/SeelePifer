@@ -1,6 +1,6 @@
 # Software Engineer
 
-Welcome to my portfolio! I am a seasoned Software engineer with over 5 years of experience, dedicated to building robust, scalable systems that power businesses. My expertise lies in crafting backend solutions that are efficient, maintainable, and secure.
+Welcome to my portfolio! I am a seasoned Software engineer with over 6+ years of experience, dedicated to building robust, scalable systems that power businesses. My expertise lies in crafting backend solutions that are efficient, maintainable, and secure.
 
 ## About Me
 
